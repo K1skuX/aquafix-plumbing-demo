@@ -1,0 +1,6 @@
+{
+  "name": "AquaFix Plumbing",
+  "description": "Professional, modern website for AquaFix Plumbing featuring transparent repair services, upfront quotes, click-to-call, WhatsApp integration, and mobile-friendly design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
